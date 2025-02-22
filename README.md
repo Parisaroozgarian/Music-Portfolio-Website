@@ -1,4 +1,4 @@
-# Music Portfoplio Website
+# Music Portfolio Website
 
 A modern, responsive music portfolio website showcasing professional music production services, custom beats, and sound engineering work.
 
